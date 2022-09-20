@@ -1,0 +1,23 @@
+{
+    "common": {
+        "home": "Home",
+        "login": "Login",
+        "exit": "Exit",
+        "doc": "Document",
+        "myMsg": "My Message",
+        "config": "Config",
+        "logout": "Logout",
+        "msgCenter": "Message Center"
+    },
+    "sys": {
+        "userMng": "User Manage",
+        "deptMng": "Dept Manage",
+        "roleMng": "Role Manage",
+        "menuMng": "Menu Manage",
+        "logMng": "Log Manage",
+        "sysMng": "System Manage",
+        "sysMonitor": "System Monitor",
+        "nav3": "System Navigator3",
+        "nav4": "System Navigator4"
+    }
+}
